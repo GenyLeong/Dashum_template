@@ -26,9 +26,9 @@ a{
 	outline: none;
 }
 
-#container {
-    width: 100%;
-    height: 100%;
+.logo{
+    color: white;
+    font-size: 2rem;
 }
 
 header{
@@ -232,4 +232,54 @@ ul.sidebar-menu li a.active {
     box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);
     padding: 15px;
     margin-bottom: 15px;
+}
+
+.title-login{
+    text-align: center;
+    font-size: 3rem;
+    color: white;
+}
+
+.ph-20{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.pv-14{
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+.form-login{
+    position: absolute;
+    top: 21px;
+    background-color: white;
+}
+
+.form-login-heading{
+     background-color: #68dff0;  
+}
+
+.pd-0{
+    padding: 0
+}
+.mg-0{
+    margin: 0
+}
+.mh-36{
+    left: 36%;
+    right: 36%;
+}
+
+.ph-60{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.pd-15{
+    padding: 15px;
+}
+
+.mg-21{
+    margin-bottom: 21px
 }
